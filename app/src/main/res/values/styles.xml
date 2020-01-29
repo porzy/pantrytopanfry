@@ -1,0 +1,21 @@
+<resources>
+
+    <style name="MyLightTheme" parent="Base.AppTheme.Light"></style>
+
+    <style name="Base.AppTheme.Light" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    <style name="MyDarkTheme" parent="Base.AppTheme.Dark">
+    </style>
+
+    <style name="Base.AppTheme.Dark" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>

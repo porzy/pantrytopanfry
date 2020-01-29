@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "723465752229",
+    "firebase_url": "https://foodtofood-fe243.firebaseio.com",
+    "project_id": "foodtofood-fe243",
+    "storage_bucket": "foodtofood-fe243.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723465752229:android:6b4a96a961bd9e538e474c",
+        "android_client_info": {
+          "package_name": "com.example.foodtofood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723465752229-jp9pkcd23gkt36irbhki6b87fn9tjhf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJTsfFQiFKnutTgsi8fdPbI0Wvah26Bsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723465752229-jp9pkcd23gkt36irbhki6b87fn9tjhf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
